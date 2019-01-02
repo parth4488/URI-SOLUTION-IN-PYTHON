@@ -1,0 +1,10 @@
+v = input().split()
+v = list(map(int, v))
+
+for x in sorted(v):
+    print(x)
+
+print('')
+
+for x in valores:
+    print(x)
